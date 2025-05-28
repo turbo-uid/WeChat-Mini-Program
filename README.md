@@ -4,13 +4,23 @@
 
 本群为小程序交流群，欢迎各位开发者加入交流群，一起交流，一起进步。
 
-<img src="./assets/wg.jpg" width="320" height="410" />
+<table style="margin: 0 auto">
+  <tbody>
+    <tr>
+      <td align="center" style="width: 300px;">
+        <img src="./assets/wg.jpg" style="width: 200px" /><br />
+      </td>
+      <td align="center" style="width: 300px;">
+        <img src="./assets/mp.jpg" style="width: 200px"/><br />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 群二维码会定期更新，如果二维码过期，可以先给个`Star`，过几天再来看看
 
 也可以关注公众号：`程序员麻城东`，获取群二维码
 
-<img src="./assets/mp.jpg" width="300" height="300" />
 
 **公众号精选文章**
 * [副业 | 如何在Github上找到开箱即用的赚钱项目](https://mp.weixin.qq.com/s/wGUMMHwbibS2kEdGcDb8YA)
